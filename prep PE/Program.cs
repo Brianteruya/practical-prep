@@ -29,9 +29,26 @@ namespace prep_PE
         }
         public static string larger(int respint)
         {
-            
+
+            if ((respint > 0) && (respint <= 100))
+            {
                 return ($"your new number is {respint + 10}.");
-        }
+            }
+            else
+            {
+                while (respint <=0 && (respint > 100))
+                {
+                    Console.WriteLine("oops! invalid value! try again:");
+                    respint = Convert.ToInt32(Console.ReadLine());
+                    if ((respint > 0) && (respint <= 100))
+                    {
+                        return ($"your new number is {respint + 10}.");
+                    }
+                }
+
+            }
+            return ("");
+            }
         static void Main(string[] args)
         {
             //PREP START
@@ -57,10 +74,7 @@ namespace prep_PE
             Console.WriteLine("enter a whole number between 1 and 100");
             
             int respint = Convert.ToInt32(Console.ReadLine());
-            while (respint <= 0 && respint > 100)
-            {
-
-            }
+            larger(respint);
             
            
 
