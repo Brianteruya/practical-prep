@@ -1,0 +1,15 @@
+D:\Profiles\bnt7728\Desktop\practical-prep\prep PE\bin\Debug\net8.0\prep PE.exe
+D:\Profiles\bnt7728\Desktop\practical-prep\prep PE\bin\Debug\net8.0\prep PE.deps.json
+D:\Profiles\bnt7728\Desktop\practical-prep\prep PE\bin\Debug\net8.0\prep PE.runtimeconfig.json
+D:\Profiles\bnt7728\Desktop\practical-prep\prep PE\bin\Debug\net8.0\prep PE.dll
+D:\Profiles\bnt7728\Desktop\practical-prep\prep PE\bin\Debug\net8.0\prep PE.pdb
+D:\Profiles\bnt7728\Desktop\practical-prep\prep PE\obj\Debug\net8.0\prep PE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Profiles\bnt7728\Desktop\practical-prep\prep PE\obj\Debug\net8.0\prep PE.AssemblyInfoInputs.cache
+D:\Profiles\bnt7728\Desktop\practical-prep\prep PE\obj\Debug\net8.0\prep PE.AssemblyInfo.cs
+D:\Profiles\bnt7728\Desktop\practical-prep\prep PE\obj\Debug\net8.0\prep PE.csproj.CoreCompileInputs.cache
+D:\Profiles\bnt7728\Desktop\practical-prep\prep PE\obj\Debug\net8.0\prep PE.sourcelink.json
+D:\Profiles\bnt7728\Desktop\practical-prep\prep PE\obj\Debug\net8.0\prep PE.dll
+D:\Profiles\bnt7728\Desktop\practical-prep\prep PE\obj\Debug\net8.0\refint\prep PE.dll
+D:\Profiles\bnt7728\Desktop\practical-prep\prep PE\obj\Debug\net8.0\prep PE.pdb
+D:\Profiles\bnt7728\Desktop\practical-prep\prep PE\obj\Debug\net8.0\prep PE.genruntimeconfig.cache
+D:\Profiles\bnt7728\Desktop\practical-prep\prep PE\obj\Debug\net8.0\ref\prep PE.dll
