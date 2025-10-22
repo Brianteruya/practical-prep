@@ -32,23 +32,20 @@ namespace prep_PE
 
             if ((respint > 0) && (respint <= 100))
             {
-                return ($"your new number is {respint + 10}.");
+                Console.WriteLine($"your new number is {respint + 10}.");
             }
-            else
+            else 
             {
-                while (respint <=0 && (respint > 100))
+                do
                 {
                     Console.WriteLine("oops! invalid value! try again:");
                     respint = Convert.ToInt32(Console.ReadLine());
-                    if ((respint > 0) && (respint <= 100))
-                    {
-                        return ($"your new number is {respint + 10}.");
-                    }
-                }
-
+                    larger(respint);
+                } while (respint <= 0 && (respint > 100));
+               
             }
-            return ("");
-            }
+            
+        }
         static void Main(string[] args)
         {
             //PREP START

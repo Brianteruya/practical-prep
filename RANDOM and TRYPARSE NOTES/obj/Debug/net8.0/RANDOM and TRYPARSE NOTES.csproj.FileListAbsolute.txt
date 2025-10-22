@@ -1,0 +1,15 @@
+D:\Profiles\bnt7728\Desktop\practical-prep\RANDOM and TRYPARSE NOTES\bin\Debug\net8.0\RANDOM and TRYPARSE NOTES.exe
+D:\Profiles\bnt7728\Desktop\practical-prep\RANDOM and TRYPARSE NOTES\bin\Debug\net8.0\RANDOM and TRYPARSE NOTES.deps.json
+D:\Profiles\bnt7728\Desktop\practical-prep\RANDOM and TRYPARSE NOTES\bin\Debug\net8.0\RANDOM and TRYPARSE NOTES.runtimeconfig.json
+D:\Profiles\bnt7728\Desktop\practical-prep\RANDOM and TRYPARSE NOTES\bin\Debug\net8.0\RANDOM and TRYPARSE NOTES.dll
+D:\Profiles\bnt7728\Desktop\practical-prep\RANDOM and TRYPARSE NOTES\bin\Debug\net8.0\RANDOM and TRYPARSE NOTES.pdb
+D:\Profiles\bnt7728\Desktop\practical-prep\RANDOM and TRYPARSE NOTES\obj\Debug\net8.0\RANDOM and TRYPARSE NOTES.GeneratedMSBuildEditorConfig.editorconfig
+D:\Profiles\bnt7728\Desktop\practical-prep\RANDOM and TRYPARSE NOTES\obj\Debug\net8.0\RANDOM and TRYPARSE NOTES.AssemblyInfoInputs.cache
+D:\Profiles\bnt7728\Desktop\practical-prep\RANDOM and TRYPARSE NOTES\obj\Debug\net8.0\RANDOM and TRYPARSE NOTES.AssemblyInfo.cs
+D:\Profiles\bnt7728\Desktop\practical-prep\RANDOM and TRYPARSE NOTES\obj\Debug\net8.0\RANDOM and TRYPARSE NOTES.csproj.CoreCompileInputs.cache
+D:\Profiles\bnt7728\Desktop\practical-prep\RANDOM and TRYPARSE NOTES\obj\Debug\net8.0\RANDOM and TRYPARSE NOTES.sourcelink.json
+D:\Profiles\bnt7728\Desktop\practical-prep\RANDOM and TRYPARSE NOTES\obj\Debug\net8.0\RANDOM and TRYPARSE NOTES.dll
+D:\Profiles\bnt7728\Desktop\practical-prep\RANDOM and TRYPARSE NOTES\obj\Debug\net8.0\refint\RANDOM and TRYPARSE NOTES.dll
+D:\Profiles\bnt7728\Desktop\practical-prep\RANDOM and TRYPARSE NOTES\obj\Debug\net8.0\RANDOM and TRYPARSE NOTES.pdb
+D:\Profiles\bnt7728\Desktop\practical-prep\RANDOM and TRYPARSE NOTES\obj\Debug\net8.0\RANDOM and TRYPARSE NOTES.genruntimeconfig.cache
+D:\Profiles\bnt7728\Desktop\practical-prep\RANDOM and TRYPARSE NOTES\obj\Debug\net8.0\ref\RANDOM and TRYPARSE NOTES.dll

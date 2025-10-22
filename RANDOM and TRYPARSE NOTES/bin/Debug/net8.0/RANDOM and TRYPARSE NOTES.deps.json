@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RANDOM and TRYPARSE NOTES/1.0.0": {
+        "runtime": {
+          "RANDOM and TRYPARSE NOTES.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RANDOM and TRYPARSE NOTES/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
